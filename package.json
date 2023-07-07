@@ -1,5 +1,6 @@
 {
-  "name": "todo-express",
+  "name": "quotes-harian",
+  "author": "AlulCode",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
